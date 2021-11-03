@@ -1,0 +1,1 @@
+.\install.bat bin\Debug dev.wuschli.web-hooks
