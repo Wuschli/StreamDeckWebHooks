@@ -1,0 +1,38 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/icon",
+      "Name": "Web Hook",
+      "States": [
+        {
+          "Image": "Images/webHookAction",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "TODO_ENTER_TOOLTIP",
+      "UUID": "dev.wuschli.web-hooks.webhookaction",
+      "PropertyInspectorPath": "PropertyInspector/WebHookActionPI.html"
+    }
+  ],
+  "Author": "Lukas Hoeppner",
+  "Name": "WebHooks",
+  "Description": "TODO_ENTER_PLUGIN_DESCRIPTION",
+  "Icon": "Images/pluginIcon",
+  "URL": "https://wuschli.dev",
+  "Version": "1.0",
+  "CodePath": "dev.wuschli.web-hooks",
+  "Category": "Custom",
+  "CategoryIcon": "Images/categoryIcon",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "4.9"
+  }
+}
