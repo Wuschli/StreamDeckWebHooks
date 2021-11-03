@@ -2,7 +2,7 @@
   "Actions": [
     {
       "Icon": "Images/icon",
-      "Name": "Web Hook",
+      "Name": "Call Web Hook",
       "States": [
         {
           "Image": "Images/webHookAction",
@@ -11,19 +11,19 @@
         }
       ],
       "SupportedInMultiActions": true,
-      "Tooltip": "TODO_ENTER_TOOLTIP",
+      "Tooltip": "Call arbitrary web hooks from your Stream Deck",
       "UUID": "dev.wuschli.web-hooks.webhookaction",
       "PropertyInspectorPath": "PropertyInspector/WebHookActionPI.html"
     }
   ],
-  "Author": "Lukas Hoeppner",
-  "Name": "WebHooks",
-  "Description": "TODO_ENTER_PLUGIN_DESCRIPTION",
+  "Author": "Lukas Höppner",
+  "Name": "Web Hooks",
+  "Description": "Call arbitrary web hooks from your Stream Deck",
   "Icon": "Images/pluginIcon",
   "URL": "https://wuschli.dev",
-  "Version": "1.0",
+  "Version": "0.0.1",
   "CodePath": "dev.wuschli.web-hooks",
-  "Category": "Custom",
+  "Category": "Web Hooks",
   "CategoryIcon": "Images/categoryIcon",
   "OS": [
     {
