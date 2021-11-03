@@ -1,4 +1,4 @@
-﻿namespace StreamDeckWebHooks
+﻿namespace WebHooks
 {
     internal enum RequestMethod
     {

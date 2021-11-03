@@ -1,14 +1,13 @@
 ﻿using System;
 using System.ComponentModel;
 using System.Net.Http;
-using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 using BarRaider.SdTools;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace StreamDeckWebHooks
+namespace WebHooks
 {
     [PluginActionId("dev.wuschli.web-hooks.webhookaction")]
     public class WebHookAction : PluginBase

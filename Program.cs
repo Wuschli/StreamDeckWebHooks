@@ -1,6 +1,6 @@
 ﻿using BarRaider.SdTools;
 
-namespace StreamDeckWebHooks
+namespace WebHooks
 {
     class Program
     {
